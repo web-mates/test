@@ -11,7 +11,7 @@ filelock==3.0.12
 mysql==0.0.2
 mysql-connector-python==8.0.20
 mysqlclient==2.0.1
-pipenv==2020.6.2
+pipenv==2022.1.8
 protobuf==3.12.2
 pytz==2020.1
 six==1.15.0
